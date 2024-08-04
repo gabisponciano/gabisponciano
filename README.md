@@ -1,16 +1,19 @@
-## Hi there 👋
+# Gabriela Ponciano
 
-<!--
-**gabisponciano/gabisponciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, eu sou Gabriela, estudante de Engenharia de Computação da UFC. Tenho muito interesse em Ciências de Dados, Machine Leanign e atualmente estou desenvolvendo habilidades em desenvolvimento mobile e web. 
 
-Here are some ideas to get you started:
+## Formas de Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-ponciano-b87109292?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxhIoomhoSW6XMAXhWX7xhg%3D%3D)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gabriela.ponciano2016@gmail.com)
+
+## Habilidade
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
+
+## GitHub Status
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabisponciano&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
