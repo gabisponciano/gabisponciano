@@ -1,6 +1,6 @@
 # Gabriela Ponciano
 
-Olá, eu sou Gabriela, estudante de Engenharia de Computação da UFC. Tenho muito interesse em Ciências de Dados, Machine Leanign e atualmente estou desenvolvendo habilidades em desenvolvimento mobile e web. 
+Olá, eu sou Gabriela, estudante de Engenharia de Computação da UFC. Tenho muito interesse em Ciências de Dados, Machine Learning e atualmente estou desenvolvendo habilidades em desenvolvimento mobile e web. 
 
 ## Formas de Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-ponciano-b87109292?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxhIoomhoSW6XMAXhWX7xhg%3D%3D)
