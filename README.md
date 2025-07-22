@@ -15,8 +15,8 @@ Hi👋! My name is Gabriela, and I'm a Computer Engineering student at UFC (Fede
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 
+## 🚀 GitHub Status
 
-## GitHub Status
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabisponciano&layout=compact&bg_color=0d1117&border_color=30A3DC&title_color=E94D5F&text_color=ffffff)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabisponciano&layout=compact&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF)
 
